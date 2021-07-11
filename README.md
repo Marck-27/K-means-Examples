@@ -2,7 +2,7 @@
 
 K-means pertenece a los algoritmos de Machine learning no supervisado que sirve para 
 
-claificar datos en "K" clases distintas de acuerdo a las características de los datos.
+clasificar datos en "K" clases distintas de acuerdo a las características de los datos.
 
 
 En el presente repositorio muestro algunos códigos python  
